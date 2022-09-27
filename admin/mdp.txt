@@ -1,0 +1,3 @@
+Pierre: Azerty
+Paul: bonjour
+Jacques: unMotDePasse
