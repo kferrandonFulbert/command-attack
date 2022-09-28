@@ -1,6 +1,6 @@
 # command-attack
 
-Qu’est qu’une injection de commande ?
+Qu’est ce qu’une injection de commande ?
 Une injection de commande est une faille pouvant toucher toutes les applications ayant accès à un système.
 
 Dans une application web, une injection de commande se produit lorsqu’un serveur utilise une entrée utilisateur pour exécuter une commande sur son système d’exploitation sans la filtrer.
@@ -19,7 +19,7 @@ Nouvel.le arrant.e dans l'entreprise en tant que RSSI vous voulez faire quelques
 - Entrer une adresse ip du réseau et valider
 - Allez sur l'url /admin. Que constatez-vous?
 - Ajouter une ip et lister le contenu du repertoir admin que vous mettrez dans un fichier tmp.txt
-- lisez le fichier text. Quels infos récupérez vous?
+- lisez le fichier text. Quelles infos récupérez vous?
 
 # Correction
 Sécuriser le site en mettant en place un correctif pérenne dans le temps.
