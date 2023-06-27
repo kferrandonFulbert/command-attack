@@ -20,17 +20,17 @@ Nouvel.le arrivant.e dans l'entreprise en tant que RSSI vous voulez faire quelqu
 
 ## Chercher une faille
 
-- Tester l'application, Entrer une adresse ip du réseau et valider
-- Comment fonctionne le script php celon vous?
-- Allez sur l'url /admin. Que constatez-vous?
-- Une double authentification htaccess htpassw et formulaire d'authentification php est-elle justifié?
-- Cette double authentification est-elle sufisante? (justifier)
-- Executer dans l'outil la commande || echo 1
-- Expliquer ce que fait la commande précèdente et en quoi cela est source de faille potentielle.
-- Essayer maintenant de lister le contenu du repertoire admin que vous mettrez dans un fichier tmp.txt
-- Lisez le fichier tmp.txt. Quelles infos récupérez vous?
-- Accèder au fichier en question, si vous n'y arrivez pas que pouvez vous faire?
-- Une fois le(s) fichier(s) appeler le professeur et expliquez votre démarche. 
+- Veuillez tester l'application en entrant une adresse IP du réseau, puis validez.
+- Selon vous, comment fonctionne le script PHP ?
+- Accédez à l'URL /admin. Que constatez-vous ?
+- Est-ce justifié d'avoir une double authentification avec htaccess, htpasswd et un formulaire d'authentification en PHP ?
+- Est-ce que cette double authentification est suffisante ? Veuillez justifier votre réponse.
+- Exécutez la commande "|| echo 1" dans l'outil.
+- Expliquez ce que fait la commande précédente et en quoi cela pourrait constituer une faille potentielle.
+- Essayez maintenant de lister le contenu du répertoire "admin" et enregistrez-le dans un fichier nommé "tmp.txt".
+- Lisez le contenu du fichier "tmp.txt". Quelles informations récupérez-vous ?
+- Essayez d'accéder au fichier en question. Si vous n'y parvenez pas, que pouvez-vous faire ?
+- Une fois que vous avez accédé au(s) fichier(s), appelez le professeur et expliquez votre démarche.
 
 ## Correction
 Sécuriser le site en mettant en place un correctif pérenne dans le temps.
