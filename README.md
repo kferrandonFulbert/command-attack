@@ -12,14 +12,16 @@ Le système va alors utiliser cette commande dans un shell puis renvoyer sa sort
 # Context ping équipement Sportludique
 
 L'entreprise SportLudique possède une application web interne permettant aux administrateurs de ping un équipement de l'entreprise depuis n'importe où dans l'entreprise.
-Nouvel.le arrant.e dans l'entreprise en tant que RSSI vous voulez faire quelques testes de sécurité que vous remonterez à votre supérieur.
+Nouvel.le arrivant.e dans l'entreprise en tant que RSSI vous voulez faire quelques testes de sécurité que vous remonterez à votre supérieur.
 
 # Chercher une faille
 
 - Entrer une adresse ip du réseau et valider
 - Allez sur l'url /admin. Que constatez-vous?
-- Ajouter une ip et lister le contenu du repertoir admin que vous mettrez dans un fichier tmp.txt
-- lisez le fichier text. Quelles infos récupérez vous?
+- Essayer d'Ajouter une ip et de lister le contenu du repertoire admin que vous mettrez dans un fichier tmp.txt
+- Lisez le fichier tmp.txt. Quelles infos récupérez vous?
+- Accèder au fichier en question, si vous n'y arrivez pas que pouvez vous faire?
+- Une fois le(s) fichier(s) appeler le professeur et expliquez votre démarche. 
 
 # Correction
 Sécuriser le site en mettant en place un correctif pérenne dans le temps.

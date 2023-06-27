@@ -1,3 +1,4 @@
+Mot de passe admin du domaine
 Pierre: Azerty
 Paul: bonjour
 Jacques: unMotDePasse
