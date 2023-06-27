@@ -20,9 +20,14 @@ Nouvel.le arrivant.e dans l'entreprise en tant que RSSI vous voulez faire quelqu
 
 ## Chercher une faille
 
-- Entrer une adresse ip du réseau et valider
+- Tester l'application, Entrer une adresse ip du réseau et valider
+- Comment fonctionne le script php celon vous?
 - Allez sur l'url /admin. Que constatez-vous?
-- Essayer d'Ajouter une ip et de lister le contenu du repertoire admin que vous mettrez dans un fichier tmp.txt
+- Une double authentification htaccess htpassw et formulaire d'authentification php est-elle justifié?
+- Cette double authentification est-elle sufisante? (justifier)
+- Executer dans l'outil la commande || echo 1
+- Expliquer ce que fait la commande précèdente et en quoi cela est source de faille potentielle.
+- Essayer maintenant de lister le contenu du repertoire admin que vous mettrez dans un fichier tmp.txt
 - Lisez le fichier tmp.txt. Quelles infos récupérez vous?
 - Accèder au fichier en question, si vous n'y arrivez pas que pouvez vous faire?
 - Une fois le(s) fichier(s) appeler le professeur et expliquez votre démarche. 
