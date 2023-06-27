@@ -9,12 +9,16 @@ Le système va alors utiliser cette commande dans un shell puis renvoyer sa sort
 
 [Cours] (https://www.hacksplaining.com/exercises/command-execution)
 
-# Context ping équipement Sportludique
+## Rappel
+Le fait d'accéder ou de se maintenir, frauduleusement, dans tout ou partie d'un système de traitement automatisé de données est puni de deux ans d'emprisonnement et de 60 000 € d'amende.
+Le but est de comprendre le principe de l'attaque afin de mettre en place la sécurité adequat.
+
+## Context ping équipement Sportludique
 
 L'entreprise SportLudique possède une application web interne permettant aux administrateurs de ping un équipement de l'entreprise depuis n'importe où dans l'entreprise.
 Nouvel.le arrivant.e dans l'entreprise en tant que RSSI vous voulez faire quelques testes de sécurité que vous remonterez à votre supérieur.
 
-# Chercher une faille
+## Chercher une faille
 
 - Entrer une adresse ip du réseau et valider
 - Allez sur l'url /admin. Que constatez-vous?
@@ -23,5 +27,5 @@ Nouvel.le arrivant.e dans l'entreprise en tant que RSSI vous voulez faire quelqu
 - Accèder au fichier en question, si vous n'y arrivez pas que pouvez vous faire?
 - Une fois le(s) fichier(s) appeler le professeur et expliquez votre démarche. 
 
-# Correction
+## Correction
 Sécuriser le site en mettant en place un correctif pérenne dans le temps.
