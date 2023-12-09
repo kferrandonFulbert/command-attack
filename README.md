@@ -7,7 +7,7 @@ Dans une application web, une injection de commande se produit lorsqu’un serve
 
 Le système va alors utiliser cette commande dans un shell puis renvoyer sa sortie vers le serveur et donc vers l’utilisateur.
 
-[Cours] (https://www.hacksplaining.com/exercises/command-execution)
+[Cours](https://www.hacksplaining.com/exercises/command-execution)
 
 ## Rappel
 Le fait d'accéder ou de se maintenir, frauduleusement, dans tout ou partie d'un système de traitement automatisé de données est puni de deux ans d'emprisonnement et de 60 000 € d'amende.
