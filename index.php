@@ -46,8 +46,23 @@
   </div>
   <div id='res'>
     <?php
+    // si on a un paramêtre
     if (isset($_GET['ip'])) {
-      echo exec("ping -n 2 " . $_GET['ip']);
+      $reponse = "";
+      $retour = "";
+      //on execute la commande ping avec le paramêtre envoyé par l'utilisateur
+      exec("ping " . $_GET['ip'], $reponse, $retour);
+  
+      // si je récupère un tableau de ligne
+      if (is_array($reponse)) {
+        // je le parcours et je l'affiche
+        foreach ($reponse as $ligne) {
+          echo   mb_convert_encoding($ligne, "UTF-8") . '<br>';
+        }
+      } else {
+        // il faudrait tracer dans un log plutot que de l'afficher
+        var_dump($reponse);
+      }
     }
     ?>
   </div>
