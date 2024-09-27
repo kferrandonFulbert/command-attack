@@ -38,7 +38,7 @@
 <body>
   <h1>Ping une machine du réseau</h1>
   <div>
-    <form action="/index.php" method="get">
+    <form action="./index.php" method="get">
       <label for="ip">IP de la machine</label>
       <input type="text" id="ip" name="ip" placeholder="192.168.1.x 172.16.119.x">
       <input type="submit" value="Submit">
